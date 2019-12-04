@@ -34,6 +34,7 @@ body {
  float: center;
 }
 
+
 .page-wrapper {
  margin-right: auto; /* 1 */
  margin-left:  auto; /* 1 */
@@ -58,4 +59,8 @@ body {
 
 blockquote {
    margin: 0; /* gets rid of the default blockquote margin */
+}
+
+h4 {
+  font-size: 9px;
 }
